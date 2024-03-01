@@ -1,0 +1,29 @@
+body {
+    background-image: url(../../images/bACK\ gROUND\ 02.jpg);
+}
+
+.form-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #EFECEC;
+    background-blend-mode: lighten;
+    border-radius: 8px;
+    overflow-y: auto;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 5rem;
+    height: auto;
+}
+
+.submit {
+    background-color: #0C2D57;
+    color: #EFECEC;
+}
+
+.error {
+    color: #FC6736
+}
